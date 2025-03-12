@@ -3,6 +3,7 @@
     <groupId>com.talib</groupId>
     <artifactId>greeting-parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
     <name>greeting-parent</name>
     <modules>
         <module>greeting-common</module>
